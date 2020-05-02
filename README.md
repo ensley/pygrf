@@ -11,5 +11,5 @@ python setup.py build_ext -i
 ## Tests
 
 ```
-python -m unittest tests/test_data/py
+python -m unittest tests/test_data.py
 ```
